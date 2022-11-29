@@ -1,0 +1,50 @@
+##TypeScript allows developers to add types to JavaScript.
+#JavaScript is a loosely typed language.
+#The TypeScript compiler can be configured with which file?
+tsconfig.json
+
+##Step: 01 -- Installation
+Go to CMD: type
+npm install -g typescript // It will install typescript globally
+npx tsc
+
+##Step: 02 -- Go to your desired project folder
+Open Terminal
+Write tsc --intit // This command will create ts.config file
+
+##Step: 03 -- Create Node environment
+npm init -y
+
+##Step 04: Do some changes in ts.config file
+change module:to "NodeNext"
+change modeResolution to "NodeNext"
+change target to "ES2022"
+
+##Step 05: Changes in package.json
+add type: module below main
+
+##Step 06: Add types
+go to cmd -> type npm i @types/node -D
+
+// create index.ts and index.js file in your relative folder and write some code in index.ts file
+
+type tsc
+type node index.js
+-----------------------First Program COmplete ---------------------------
+Development dependencies used in development environment
+Dependencies used at the time of deployment.
+
+##Inquirer installation
+npm i inquire
+
+add inquirer types in node types --> npm i -D @types/inquirer
+
+------------------------------------------------------------------------------
+Create .gitignore file and write node_modules
+
+----------------------------------------------------------
+##Install Chalk and chalk animation
+npm i chalk chalk-animation
+add chalk types into package.json npm i -D @types/chalk
+npm i -D @types/chalk-animation
+
