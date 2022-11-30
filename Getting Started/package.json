@@ -1,9 +1,12 @@
 {
-  "name": "getting-started",
-  "version": "1.0.0",
+  "name": "javeria-calc",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": {
+    "javeria-calc": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,6 +22,7 @@
   "dependencies": {
     "chalk": "^5.1.2",
     "chalk-animation": "^2.0.3",
-    "inquirer": "^9.1.4"
+    "inquirer": "^9.1.4",
+    "javeria-calc": "^1.1.0"
   }
 }
