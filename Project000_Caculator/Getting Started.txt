@@ -48,3 +48,14 @@ npm i chalk chalk-animation
 add chalk types into package.json npm i -D @types/chalk
 npm i -D @types/chalk-animation
 
+
+commands
+npm i @types/node -D 
+npm i inquirer
+npm i @types/inquirer
+npm i chalk chalk-animation
+npm i @types/chalk
+npm i @types/chalk-animation
+npm i -D @types/chalk
+npm i -D @types/chalk-animation
+npm i -D @types/inquirer

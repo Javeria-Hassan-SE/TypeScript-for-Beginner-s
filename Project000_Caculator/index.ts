@@ -4,10 +4,10 @@ import chalk from "chalk";
 import chalkAnimation, { rainbow } from "chalk-animation";
 import { type } from "os";
 
-var label= ` _____________________
+var label = ` _____________________
 |  _________________  |
-| | JO           0. | |
-| |_________________| |
+| |      JAVERIA    | |
+| |______HASSAN ____| |
 |  ___ ___ ___   ___  |
 | | 7 | 8 | 9 | | + | |
 | |___|___|___| |___| |

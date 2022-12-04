@@ -3,8 +3,8 @@ import inquirer from "inquirer";
 import chalkAnimation from "chalk-animation";
 var label = ` _____________________
 |  _________________  |
-| | JO           0. | |
-| |_________________| |
+| |      JAVERIA    | |
+| |______HASSAN ____| |
 |  ___ ___ ___   ___  |
 | | 7 | 8 | 9 | | + | |
 | |___|___|___| |___| |
