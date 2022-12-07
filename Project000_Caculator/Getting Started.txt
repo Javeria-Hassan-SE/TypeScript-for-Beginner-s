@@ -10,7 +10,7 @@ npx tsc
 
 ##Step: 02 -- Go to your desired project folder
 Open Terminal
-Write tsc --intit // This command will create ts.config file
+Write tsc --init // This command will create ts.config file
 
 ##Step: 03 -- Create Node environment
 npm init -y
